@@ -289,3 +289,142 @@ i {
     color: #E58411;
     font-family: "Outfit", sans-serif;
 }
+
+/* end of midprod */
+
+/* experinces */
+.experience {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+    margin-left: 0%;
+    margin-right: 15%;
+}
+
+.eximg {
+    max-width: 629px;
+    height: 445px;
+    border-radius: 20px;
+}
+
+.extitle_p {
+    color: #E58411;
+    font-family: my_font;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.extext h3+p {
+    color: #1E1E1E;
+    opacity: 80%;
+    font-family: "Outfit", sans-serif;
+    line-height: 30px;
+    word-spacing: 5px;
+}
+
+.extext h3 {
+    font-family: my_font;
+    font-size: 40px;
+
+}
+
+.extext a {
+    font-size: 20px;
+    color: #E58411;
+    text-decoration: none;
+    font-family: "Outfit", sans-serif;
+
+}
+
+/* testmonial review */
+.review {
+    border: 0px;
+    max-width: 413px;
+    height: 94px;
+    margin: auto;
+    text-align: center;
+    margin-top: 12%;
+}
+
+.review p {
+    color: #E58411;
+    font-family: my_font;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.review h3 {
+    font-family: my_font;
+    font-size: 40px;
+}
+
+.public_review {
+    max-width: 1198.35px;
+    height: 492px;
+    border: 0px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.review_p {
+    max-width: 370px;
+    background-image: url(./img/revire\ 1st\ bc.png);
+    height: 476px;
+    border: 0px;
+    margin-top: 0.5%;
+
+}
+
+.emty_box {
+    width: 300px;
+    height: 249px;
+    border: 0px;
+}
+
+.review_ditels {
+    max-width: 334px;
+    height: 206px;
+    background-color: #FFFFFF;
+    border-radius: 19px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.review_ditels img {
+    border: 7px solid #FFFFFF;
+    border-radius: 50px;
+    margin-top: -30px;
+    margin-left: 40%;
+}
+
+.name_p_review {
+    text-align: center;
+    line-height: 1px;
+}
+
+.name_p_review h4 {
+    font-family: my_font;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.name_p_review p {
+    font-family: "Outfit", sans-serif;
+    opacity: 60%;
+}
+
+.person_comment p {
+    text-align: center;
+    margin-top: 15px;
+    font-family: "Outfit", sans-serif;
+    color: #1E1E1E;
+    opacity: 90%;
+}
+
+.rate_star {
+    margin-left: 35%;
+
+    color: #F6973F;
+}
